@@ -1,0 +1,57 @@
+name: HCF
+version: 0.0.1
+author: JuqnGOOD
+main: hcf\HCF
+load: STARTUP
+api: 4.0.0
+permissions:
+  autofeed.command:
+    default: op
+  balance.command:
+    default: op
+  clearlag.command:
+    default: op
+  craft.command:
+    default: op
+  ender_chest.command:
+    default: op
+  feed.command:
+    default: op
+  fix.command:
+    default: op
+  fix.other.command:
+    default: op
+  floatingtext.command:
+    default: op
+  near.command:
+    default: op
+  pvp.command:
+    default: op
+  rename.command:
+    default: op
+  kit.command:
+    default: op
+  timer.command:
+    default: op
+  op_key_all.command:
+    default: op
+  key_all.command:
+    default: op
+  custom_enchant.command:
+    default: op
+  faction.addpoint.command:
+    default: op
+  faction.rempoint.command:
+    default: op
+  faction.addstrike.command:
+    default: op
+  faction.remstrike.command:
+    default: op
+  faction.forcedisband.command:
+    default: op
+  faction.opclaim.command:
+    default: op
+  faction.permission:
+    default: op
+  god.permission:
+    default: op
